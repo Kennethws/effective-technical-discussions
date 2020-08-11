@@ -13,4 +13,4 @@ def hello():
   return 'hello cloud'
 ```
 
-* This is the exact gist for you: [how-to-code]https://gist.github.com/Kennethws/8f1ccf6694189304a8594d7851df9978
+* This is the exact gist for you: [how-to-code](https://gist.github.com/Kennethws/8f1ccf6694189304a8594d7851df9978)
